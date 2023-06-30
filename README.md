@@ -1,1 +1,1 @@
-# PasswordHasher.SHA256
+# PasswordHasher
